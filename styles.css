@@ -1,0 +1,245 @@
+html {
+  background-color: #E8ECF1;
+}
+
+body {
+  background-color: white;
+  margin: 0;
+  font-family: system-ui;
+}
+
+td {
+  vertical-align: text-top;
+}
+
+h1 {
+  font-family: "Nunito Sans", cursive;
+  font-size: 3.5vw;
+}
+h2 {
+  font-size: 130%;
+}
+h2.font {
+    color: #AD8B73;
+}
+h3 {
+  font-size: 150%;
+}
+h3.font {
+    color: #AD8B73;
+}
+
+p {
+  word-spacing: 2;
+  line-height: 180%;
+  color: #565656;
+  font-size: 120%;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+li {
+  list-style-type: none;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>> MENU NAVIGATOR <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.nav {
+  background-color: #E8ECF1;
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+.nav a {
+  color: #6B4F4F;
+  text-decoration: none;
+}
+.nav a:hover {
+  background: #E8ECF1;
+  color: black;
+  text-decoration: underline;
+}
+
+#Menu {
+  text-align: right;
+  list-style-type: none;
+}
+.Menu {
+  display: inline;
+  padding-right: 30px;
+  font-family: "Robotic",sans-serif;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>> PROFILE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.Top {
+  background-color: #E8ECF1;
+  padding: 73.6px 40px 40px 40px;
+}
+
+#Picture {
+  width: 50%;
+}
+
+#Profile {
+  vertical-align: inherit;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>> ABOUT ME <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+#AboutMe {
+  padding: 0;
+}
+
+.BG {
+  padding-left: 160px;
+  padding-right: 15%;
+  width: 70%;
+}
+.PLS {
+  padding-right: 160px;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>> EXPERIENCE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+#Experiences {
+  padding: 0;
+}
+
+.Exp-left {
+  padding-left: 160px;
+  padding-right: 60px;
+  width: 35%;
+}
+.Exp-right {
+  padding-right: 160px;
+}
+
+.click {
+  background-color: white;
+  width: 100%;
+}
+.click a {
+  color: #8E806A;
+  text-decoration: none;
+}
+.click a:hover {
+  background: white;
+  color: black;
+  text-decoration: underline;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>> SKILL <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+#Skills {
+  padding: 0;
+}
+.skill {
+  background-color: #E8ECF1;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.pro {
+  padding-bottom: 20px;
+}
+
+.Skill1-left {
+  padding-left: 160px;
+  padding-right: 60px;
+  width: 40%;
+  text-align: center;
+}
+.Skill1-right {
+  padding-right: 160px;
+  vertical-align: middle;
+  width: 50%;
+}
+
+.Skill2-left {
+  padding-left: 160px;
+  padding-right: 60px;
+  width: 50%;
+}
+.Skill2-right {
+  padding-right: 160px;
+  vertical-align: middle;
+  width: 40%;
+  text-align: center;
+}
+
+p.head {
+  font-size: 150%;
+  color:#AD8B73;
+  font-weight: 500;
+}
+p.language1 {
+  color: #BF9270;
+  text-align: right;
+  padding-right: 40px;
+  font-weight: 400;
+}
+p.language2 {
+  color: #BF9270;
+  font-weight: 400;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>> CONTACT ME <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.Ask {
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 80px;
+  padding-top: 40px;
+}
+
+.box {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  background-color: #F1F1F1;
+  border: none;
+}
+.msg {
+  width: 100%;
+  height: 100px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  background-color: #F1F1F1;
+  border: none;
+  font-family:system-ui;
+}
+.submit {
+  margin-top: 20px;
+  width: 8vw;
+  height: 4vw;
+  background-color: #C9C9C9;
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+}
+.submit:hover {
+  background: #DDDDDD;
+  color: white;
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>> BOTTOM <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
+.Bottom {
+  background-color: #E8ECF1;
+  text-align: center;
+  bottom: 0;
+  padding-bottom: 20px;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  padding: 50px;
+}
+.logo2 {
+  width: 55px;
+  height: 55px;
+  padding: 50px;
+}
