@@ -88,6 +88,11 @@ li {
   vertical-align: inherit;
 }
 
+.programmer {
+  text-align: right;
+  padding-right: 15%;
+}
+
 /* >>>>>>>>>>>>>>>>>>>>>>>> ABOUT ME <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
 #AboutMe {
   padding: 0;
