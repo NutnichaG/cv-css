@@ -18,14 +18,14 @@ h1 {
 }
 
 h2 {
-  font-size: 130%;
+  font-size: 21px;
 }
 h2.font {
     color: #AD8B73;
 }
 
 h3 {
-  font-size: 150%;
+  font-size: 25px;
 }
 h3.font {
     color: #AD8B73;
@@ -35,7 +35,7 @@ p {
   word-spacing: 2;
   line-height: 180%;
   color: #565656;
-  font-size: 120%;
+  font-size: 19.5px;
 }
 
 hr {
@@ -193,7 +193,7 @@ li {
 }
 
 p.head {
-  font-size: 150%;
+  font-size: 24px;
   color:#AD8B73;
   font-weight: 500;
 }
