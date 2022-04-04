@@ -118,6 +118,10 @@ li {
   padding: 0;
 }
 
+.exp {
+  padding-top: 8%;
+}
+
 .Exp-left {
   padding-left: 10%;
   padding-right: 1%;
@@ -147,8 +151,8 @@ li {
 }
 .skill {
   background-color: #E8ECF1;
-  padding-top: 2.5%;
   padding-bottom: 2.5%;
+  padding-top: 5%;
 }
 
 .Skill-left {
