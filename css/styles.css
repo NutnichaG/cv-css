@@ -105,12 +105,10 @@ li {
   padding-right: 4%;
   width: 70%;
 }
-.PLS {
-  padding-right: 6%;
-}
 
 .Program {
   padding-right: 10%
+  width: 30%
 }
 
 /* >>>>>>>>>>>>>>>>>>>>>>>> EXPERIENCE <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */
@@ -125,11 +123,12 @@ li {
 .Exp-left {
   padding-left: 10%;
   padding-right: 1%;
-  width: 350px;
+  width: 30%;
 }
-/*.Exp-right {
-  padding-right: 6%;
-}*/
+.Exp-right {
+  padding-right: 10%;
+  width: 70%;
+}
 
 .click {
   background-color: white;
